@@ -19,9 +19,6 @@ I started in **full-stack engineering & blockchain infrastructure**, building sc
 *   **Infrastructure:** Docker, Kubernetes, AWS, Terraform
 *   **Blockchain:** Solidity, Web3.js (Smart Contract Security focus)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=goran-revops&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues" />
-</p>
 
 ### Languages & Tools
 <p align="left">
