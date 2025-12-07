@@ -2,7 +2,7 @@
 
 **RevOps & Automation Engineer | Systems Architect**
 
-I started in **full-stack engineering & blockchain infrastructure**, building scalable systems for complex environments. Now, I apply that engineering rigor to **Revenue Operations (RevOps)**—fixing the "manual glue" in B2B SaaS GTM stacks.
+I started in **full-stack engineering & blockchain infrastructure**, building scalable systems for complex environments. Now, I apply that engineering rigor to **Revenue Operations (RevOps)** - fixing the "manual glue" in B2B SaaS GTM stacks.
 
 ---
 
